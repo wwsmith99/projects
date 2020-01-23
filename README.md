@@ -1,2 +1,2 @@
-# projects
+# Projects
 Personal and school projects 
