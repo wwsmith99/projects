@@ -31,7 +31,7 @@ void loop() {
     {
       /*
        
-       digitalWrite(13, LOW);
+          digitalWrite(13, LOW); <- for testing 
           delay(1500);
           digitalWrite(13, HIGH);
           delay(1500);
@@ -41,11 +41,12 @@ void loop() {
           delay(100);
           myServo.write(9);
     }
+    
     if (incomingByte == 51)
     {
-      digitalWrite(13, LOW);
-      while(1){
-    }
+        digitalWrite(13, LOW);
+        while(1){
+        }
     }
 delay(500);
 digitalWrite(13,HIGH);
