@@ -1,2 +1,2 @@
 # Projects
-Personal and school projects 
+Just a place where I put personal and school projects
